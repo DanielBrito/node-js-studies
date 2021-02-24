@@ -1,6 +1,6 @@
 # 📍 Available at
 
-[Build RESTful API with PostgreSQL and Express](https://www.youtube.com/watch?v=_Mun4eOOf2Q)
+[Build RESTful API with PostgreSQL and Express (The Stoic Programmers)](https://www.youtube.com/watch?v=_Mun4eOOf2Q)
 
 ## 🛠️ Tools
 

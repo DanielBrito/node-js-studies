@@ -1,8 +1,14 @@
+<div align="center">
+	<img src="./result.png" alt="Smoothies">
+</div>
+
+---
+
 # 📍 Available at
 
-[Node.js Auth Tutorial with JWT](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp)
+[Node.js Auth Tutorial with JWT (The Net Ninja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp)
 
-## 🛠️ Tools Used
+## 🛠️ Tools
 
 - Embedded JavaScript (ejs)
 - Node.js
@@ -11,12 +17,12 @@
 - JWT
 - Cookie Parser
 
-## :bookmark_tabs: Topics Covered
+## :bookmark_tabs: Topics
 
 - Setup:
 	- Installing packages and understanding basic (ejs) structure
 - Auth Routes & Controllers:
-	- Creating routes for sign up, login, home page and smoothies pages
+	- Creating routes for sign up, log in, home page and smoothies' pages
 - Testing Routes & Handling POST Requests:
 	- Using client app (Postman or Insomnia) to send HTTP requests
 - User Model:
@@ -39,7 +45,7 @@
  	- Creating middleware to handle token validation
  	- Creating middleware to retrieve logged user
 - Conditional Rendering:
-	- Displayng logged user (email inside the header)
+	- Displaying logged user (email inside the header)
 
 ### 📝 Notes
 

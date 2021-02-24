@@ -13,9 +13,6 @@ These examples cover different aspects of several tools and concepts related to 
 
 ## :rocket: Projects
 
-	- Personal:
-		- [Spark API]() :mortar_board:
-
-	- Tutorials:
-		- [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
-		- [NPS API](https://github.com/DanielBrito/nps-nlw-rocketseat)
+- Tutorials:
+	- [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
+	- [NPS API](https://github.com/DanielBrito/nps-nlw-rocketseat)
