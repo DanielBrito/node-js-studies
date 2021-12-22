@@ -1,8 +1,8 @@
-# :green_circle: Learning Node.js
+# :green_circle: Node.js Studies
 
-These examples cover different aspects of several tools and concepts related to back-end development with Node.js from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
+These examples cover different tools and concepts related to back-end development with Node.js from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
-## :bookmark_tabs: Topics Covered
+## :bookmark_tabs: Learning Topics
 
 - RESTful API
 - Express
@@ -14,8 +14,9 @@ These examples cover different aspects of several tools and concepts related to 
 ## :rocket: Projects
 
 - Personal:
+
 	- [RESTack](https://github.com/DanielBrito/restack-api)
 
 - Tutorials:
+
 	- [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
-	- [NPS API](https://github.com/DanielBrito/nps-nlw-rocketseat)
