@@ -13,10 +13,6 @@ These examples cover different tools and concepts related to back-end developmen
 
 ## :rocket: Projects
 
-- Personal:
+- [RESTack](https://github.com/DanielBrito/restack-api)
 
-	- [RESTack](https://github.com/DanielBrito/restack-api)
-
-- Tutorials:
-
-	- [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
+- [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
